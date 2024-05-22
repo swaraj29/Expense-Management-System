@@ -23,19 +23,19 @@ ExpenseManager is a modern web application designed to help you track and manage
 ## Screenshots
 
 ### Dashboard
-![Dashboard](https://github.com/yourusername/ExpenseManager/raw/main/screenshots/dashboard.png)
+![Dashboard](https://github.com/swaraj29/Expense-Management-System/blob/66c1dc38974e175f7636465de92e50acc6bce2ed/screenshot/Screenshot%202024-05-23%20013208.png)
 
 ### Expense List
-![Expense List](https://github.com/yourusername/ExpenseManager/raw/main/screenshots/expense_list.png)
+![Expense List](https://github.com/swaraj29/Expense-Management-System/blob/66c1dc38974e175f7636465de92e50acc6bce2ed/screenshot/Screenshot%202024-05-23%20013145.png)
 
-### Add Expense
-![Add Expense](https://github.com/yourusername/ExpenseManager/raw/main/screenshots/add_expense.png)
+### Database
+![Database](https://github.com/swaraj29/Expense-Management-System/blob/66c1dc38974e175f7636465de92e50acc6bce2ed/screenshot/Screenshot%202024-05-23%20013555.png)
 
 ### Reports
-![Reports](https://github.com/yourusername/ExpenseManager/raw/main/screenshots/reports.png)
+![Reports](https://github.com/swaraj29/Expense-Management-System/blob/66c1dc38974e175f7636465de92e50acc6bce2ed/screenshot/Screenshot%202024-05-23%20013301.png)
 
 ### Authentication
-![Authentication](https://github.com/yourusername/ExpenseManager/raw/main/screenshots/authentication.png)
+![Authentication](https://github.com/swaraj29/Expense-Management-System/blob/66c1dc38974e175f7636465de92e50acc6bce2ed/screenshot/Screenshot%202024-05-23%20012637.png)
 
 ## Installation
 
